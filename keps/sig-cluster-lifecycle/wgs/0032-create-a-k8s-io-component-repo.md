@@ -197,7 +197,7 @@ for components though, so that they register their allowed exceptions in the `re
 
 ### Part 2: Command building / flag parsing for long-running daemons
 
-Getting this code centralized and standardized will make it way easier for a server/daemon/controller component to be implmented.
+Getting this code centralized and standardized will make it way easier for a server/daemon/controller component to be implemented.
 A more detailed document on _exactly how_ a Kubernetes server component should implement this is subject to a new KEP that will be created
 later by the WG.
 
